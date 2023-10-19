@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}//listunion.js"
+            "program": "${workspaceFolder}//twosum.js"
         }
     ]
 }
